@@ -1,0 +1,12 @@
+# Generated data / model artifacts — regenerate via the scripts in generating_data/ and identifying_anomalies/
+generating_data/raw_good_data/*.csv
+generating_data/anomaly_data/*.csv
+identifying_anomalies/dataset/*.csv
+identifying_anomalies/model/*.csv
+identifying_anomalies/model/*.joblib
+identifying_anomalies/model/*.json
+identifying_anomalies/plots/*.png
+
+__pycache__/
+*.pyc
+.DS_Store

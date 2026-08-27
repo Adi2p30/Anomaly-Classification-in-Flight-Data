@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.png
+Initial_Run/identifying_anomalies/MODEL_ARCHITECTURE.md
+v3/identifying_anomalies/MODEL_ARCHITECTURE_V3.md
